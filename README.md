@@ -1,2 +1,2 @@
-# DataSetsJson
-Civic Tech India related Datasets
+# Civic Tech India related Datasets
+A library of Data Set JSON used in the Civictech Application
