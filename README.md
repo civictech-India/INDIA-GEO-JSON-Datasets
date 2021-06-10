@@ -1,5 +1,5 @@
-# Civic Tech India related Datasets
-A library of Data Set Geo Json used in the Civictech Application
+# Geo Json used in the Civictech Application
+
  1. **Karnataka Districts Geo Json** | [Karnataka_District_Boundary.json](https://github.com/civictech-India/DataSetsJson/blob/main/Karnataka_District_Boundary.json
     "Karnataka_District_Boundary.json")
  3. **Parliamentary Constituencies in India Geo Json** | [india_pc_2019.json](https://github.com/civictech-India/DataSetsJson/blob/main/india_pc_2019.json "india_pc_2019.json")
